@@ -1,7 +1,7 @@
 # Machiavelli Artificial Intelligence
 
 Do you know 'Machiavelli' card game?  
-Well, tell this software the cards on the table and in your hand, and, sooner or later, it will* tell you the best possible turn you can perform, in terms of minimization of the number of cards you have.
+Well, tell this software the cards on the table and the cards in your hand, and, sooner or later, it will tell you the best possible turn you can perform, in terms of minimization of the number of cards you have.
 
 ## How
 I don't know if 'AI' is a proper name, because the trick behind the algorithm is --> brute-force.  
