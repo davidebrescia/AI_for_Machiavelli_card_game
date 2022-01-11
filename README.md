@@ -12,5 +12,5 @@ I don't know if 'AI' is a proper name, because the trick behind the algorithm is
 Furthermore, the software does not support Jolly cards (the implementation would be quite easy, but the computational effort would become huge, more than what it is now).
 
 ## Code
-The code is commented, but in italian (as the card game!) and a bit messily. Maybe, in the future, I will make it better.
+The code is commented, but in italian (as the card game!) and a bit messily. Maybe, in the future, I will make it better (spoiler: I won't).
 
